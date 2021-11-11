@@ -1,14 +1,80 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+          "id": 0,
+          "username": "parishdavid101",
+          "name": "Parrish",
+          "surname": "David",
+          "email": "parrishdavid@zialactic.com",
+          "password": "pH83@as"
+        },
+        {
+          "id": 1,
+          "username": "Brianna55",
+          "name": "Brianna",
+          "surname": "Herrera",
+          "email": "briannaherrera@zialactic.com",
+          "password": "gp7asAS4"
+        },
+        {
+          "id": 2,
+          "username": "java1",
+          "name": "Jacobs",
+          "surname": "Vaughan",
+          "email": "jacobsvaughan@zialactic.com",
+          "password": "98HLoea"
+        },
+        {
+          "id": 3,
+          "username": "rathut",
+          "name": "Ratliff",
+          "surname": "Hutchinson",
+          "email": "ratliffhutchinson@zialactic.com",
+          "password": "psa8k3@"
+        },
+        {
+          "id": 4,
+          "username": "saramor99",
+          "name": "Sarah",
+          "surname": "Morton",
+          "email": "sarahmorton@zialactic.com",
+          "password": "apAKA%!A"
+        },
+        {
+          "id": 5,
+          "username": "opheliaaa",
+          "name": "Ophelia",
+          "surname": "Baldwin",
+          "email": "opheliabaldwin@zialactic.com",
+          "password": "oPtls31"
+        },
+        {
+          "id": 6,
+          "username": "calderonWigg33",
+          "name": "Calderon",
+          "surname": "Wiggins",
+          "email": "calderonwiggins@zialactic.com",
+          "password": "pg93%asA"
+        },
+        {
+          "id": 7,
+          "username": "lordot",
+          "name": "Lorna",
+          "surname": "Dotson",
+          "email": "lornadotson@zialactic.com",
+          "password": "50alsAI"
+        },
+        {
+          "id": 8,
+          "username": "whitney77",
+          "name": "Neva",
+          "surname": "Whitney",
+          "email": "nevawhitney@zialactic.com",
+          "password": "pasl933%"
+        },
+        {
+          "id": 9,
+          "username": "Joce101",
+          "name": "Jocelyn",
+          "surname": "Walters",
+          "email": "jocelynwalters@zialactic.com",
+          "password": "lya93Ta"
+        }
